@@ -24,11 +24,13 @@ Totoro Cloud 中文名为龙猫云，一家颇具实力的新机场，Shadowsock
 
 ## 龙猫云机场机场测速
 
-![TotoroCloud-SpeedTest-SZDX](https://github.com/jichangzhu/TotoroCloud/assets/152512496/3494b185-7039-4be1-8e39-9d5b3f6a7026)
+<img width="4035" height="4700" alt="TotoroCloud-SpeedTest-GXYD-20250905" src="https://github.com/user-attachments/assets/9a1bfa68-a2ba-4529-b369-615151a38398" />
+
 
 ## 龙猫云机场出入口分析
 
-![TotoroCloud-Network-Topology-SZDX](https://github.com/jichangzhu/TotoroCloud/assets/152512496/452c5bfd-1e5b-41d2-bed8-737e923815ad)
+<img width="1794" height="4874" alt="TotoroCloud-Network-Topology-GXYD-20250905" src="https://github.com/user-attachments/assets/7b5678bf-3e6f-450f-af31-badbe9b491a4" />
+
 
 ## 龙猫云机场跑路
 目前龙猫云机场没有跑路，可以放心使用。
